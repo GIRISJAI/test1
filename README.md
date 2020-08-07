@@ -1,2 +1,2 @@
 # test1
-First repository on central server.
+First repository on central server
